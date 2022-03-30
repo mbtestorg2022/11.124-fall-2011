@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2bddb4c1-767a-fcd3-7dc5-eb0585c90151
 resourcetype: Image
 title: cropped-students-in-discussion.jpg
 uid: 28050cb7-b469-642d-3bc1-0995b6fa8813

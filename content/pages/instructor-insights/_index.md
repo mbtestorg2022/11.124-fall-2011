@@ -10,7 +10,7 @@ uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 Course Overview
 ---------------
 
-This page focuses on the course 11.124 _Introduction to Education: Looking Forward and Looking Back on Education_ as it was taught in Fall 2011 by Professor Erik Klopfer. Most content on this page also applies to the course [11.125 _Introduction to Education: Understanding and Evaluating Education_](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/).
+This page focuses on the course 11.124 _Introduction to Education: Looking Forward and Looking Back on Education_ as it was taught in Fall 2011 by Professor Erik Klopfer. Most content on this page also applies to the course [11.125 _Introduction to Education: Understanding and Evaluating Education_](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009).
 
 This course is an introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide. This course is required for the [Scheller Teacher Education Program (STEP)](https://education.mit.edu/) at MIT, through which students can earn a teaching license.
 
@@ -28,9 +28,9 @@ Course Outcomes
 
 Courses at MIT:
 
-*   [11.125 _Introduction to Education: Understanding and Evaluating Education_](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/)
+*   [11.125 _Introduction to Education: Understanding and Evaluating Education_](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009)
 *   11.127J _Computer Games and Simulations for Investigation and Education_
-*   Educational Theory and Practice sequence ([11.129](/courses/11-129-educational-theory-and-practice-i-fall-2011/), 11.130, [11.131](/courses/11-131-educational-theory-and-practice-iii-spring-2012/))
+*   Educational Theory and Practice sequence ([11.129](/courses/11-129-educational-theory-and-practice-i-fall-2011), 11.130, [11.131](/courses/11-131-educational-theory-and-practice-iii-spring-2012))
 
 {{< div-with-class "reveal1">}}
 
@@ -51,7 +51,7 @@ Professional possibilities:
 Instructor Insights
 -------------------
 
-![](/courses/urban-studies-and-planning/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/instructor-insights/11-124-insights.png)  
+{{< resource "519a3fbf-7c2f-ce30-f706-1d0194e9281e" >}}  
 Prof. Klopfer shares his thoughts at the end of a student-led discussion. (Image courtesy of MIT OpenCourseWare.)
 
 In the following pages, Professor Eric Klopfer discusses specific aspects of his experience as the lead course instructor.
@@ -85,7 +85,7 @@ None
 The Classroom
 -------------
 
-*   ![In this medium-sized classroom, six rows of seats are visible. Each row has six to seven chairs with attached desks. At the front, there is a small table and two columns of sliding chalkboards.](/courses/urban-studies-and-planning/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/instructor-insights/11-124_classroom-1.png)
+*   {{< resource "42630a45-7454-8283-f28f-f47a9cc99bbd" >}}
     
     ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
     
@@ -99,7 +99,7 @@ The Classroom
 Student Information
 -------------------
 
-![On average, about 25 students take this course each year.](/courses/urban-studies-and-planning/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/instructor-insights/11-124_stat-students.png)
+{{< resource "02a6b87c-012b-cf82-ac3f-b5dc6d132c7e" >}}
 
 ### Breakdown by Degree Program
 

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 64cfd91b-9723-255c-97e4-da92a1e51d6c
 resourcetype: Image
 title: big-picture.jpg
 uid: 94062569-85f0-a5fb-fb4d-6c4d0f1d4c84
